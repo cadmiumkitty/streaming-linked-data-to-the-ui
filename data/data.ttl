@@ -1,0 +1,17 @@
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://www.meetup.com/semantic-web-london/events/233037799> a owl:Thing ;
+   rdfs:label "Streaming linked data to the UI" ;
+   rdfs:comment "Talk about the options for streaming linked data to the UI, starting with some widely known but proprietary options created by the likes of Netflix, looking into existing W3C standards, and finishing with a demo that mixes up W3C semantic web and web standards with open source messaging protocols." .
+   
+<https://www.meetup.com/semantic-web-london/events/232354771> a owl:Thing ;
+   rdfs:label "Patterns in building ontologies from concept maps and other artefacts" ;
+   rdfs:comment "Talk about the experiences of using Semantic Web technologies on client projects and patterns in building ontologies from concept maps, spreadsheets and other client artefacts." .
+   
+<https://www.meetup.com/semantic-web-london> a owl:Thing ;
+   rdfs:label "Semantic Web London" ;
+   rdfs:comment "A group of professionals in London applying Semantic Web technologies to solve business problems." .
